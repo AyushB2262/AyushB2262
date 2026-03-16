@@ -17,4 +17,4 @@
 ## Socials
 
 - [Linkedin](https://www.linkedin.com/in/ayushb11/)
-- [X (formerly Twitter)](https://x.com/AyushB30)
+- [X (formely Twitter)](https://x.com/AyushB30)
