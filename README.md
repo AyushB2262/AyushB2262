@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello!
+- Systems Architect | AI Solutions Engineer, Engineering high-performance intelligence\
+  with a focus on scalable infrastructure and agentic workflows.
 
-<!--
-**AyushB2262/AyushB2262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently architecting SkillVerify, leading the transition toward automated, AI-driven skill validation systems.
 
-Here are some ideas to get you started:
+- Specializing in Agentic Workflows—moving beyond simple LLM prompts to build\
+  autonomous agents capable of research, reasoning, and system execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bridging the Hardware-Software Gap, leveraging an Electronics and Communication background\
+  to optimize software for real-world hardware constraints.
+
+- Focused on High-Performance Systems, prioritizing low-latency data ingestion and efficient resource management.
+
+- Core Stack: Python (LLM Orchestration, LangGraph), C++ (System Logic), TypeScript/Next.js (Real-time Dashboards), and Deep Integration with AI Agentic Layers.
+
+## Socials
+
+- [Linkedin](https://www.linkedin.com/in/ayushb11/)
+- [X (formerly Twitter)](https://x.com/AyushB30)
